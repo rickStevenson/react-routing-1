@@ -11,6 +11,7 @@ export default function App() {
       <div id="App__mainContainer">
         <div id="App__routerContainer">
           <Cart />
+          EMILY IS THE BEST
         </div>
       </div>
     </div>
